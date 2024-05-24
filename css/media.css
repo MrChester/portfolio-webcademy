@@ -1,0 +1,38 @@
+@media (max-width: 1080px) {
+    /* Header */
+
+    .header-row {
+        column-gap: 30px;
+    }
+
+    .header-img {
+        width: 300px;
+        border-radius: 30px;
+    }
+
+    .header-title {
+        font-size: 52px;
+    }
+
+    .header-text {
+        font-size: 22px;
+    }
+
+    /* Portfolio */
+
+    .portfolio-title {
+        font-size: 42px;
+    }
+
+    /* Contacts */
+
+    .contacts-title {
+        font-size: 42px;
+    }
+
+    /* Inner Page */
+
+    .inner-page-title {
+        font-size: 42px;
+    }
+}
